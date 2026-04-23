@@ -1,8 +1,8 @@
-Check it out on turbowarp ! (scratch's servers are down)
+#Check it out on turbowarp ! (scratch's servers are down)
 
 Link: https://turbowarp.org/1212801905?hqpen
 
-This was made using TimMcCool's scratchattach Cloud Request's library :
+#This was made using TimMcCool's scratchattach Cloud Request's library :
 
 Find out more:
 
